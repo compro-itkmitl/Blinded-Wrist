@@ -50,6 +50,6 @@ Computer Programming (รหัส 06016315)
 
 ---
 <br>
-###### Faculty of Information Technology
+##### Faculty of Information Technology
 
 #####  King Mongkut's Institute of Technology Ladkrabang
