@@ -1,5 +1,5 @@
 
-# Blinded-Wrist 
+# Blinded-Wrist :watch:
 ###### introduction :speech_balloon:
 In Thailand, 10.2% were visually impaired disable of the 800,000 people (2016). and expected to increase in the next years. So we developed the "Blinded-wrist" to allow people with disabilities to find the distance around themselves and their belongings through their ears. What is it then? It will make a ultrasonic signal to measure the distance by amplitude, and the audio for surrounding has become easier for the blind and people with visual impairments following the rise of the technology. and that's reason why we made it.
 
