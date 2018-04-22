@@ -15,7 +15,7 @@ In Thailand, 10.2% were visually impaired disable of the 800,000 people (2016). 
 1.  Install  Blind-Wrist application on your andriod phone.
 2. Run application.
 3.  Turn On Blind-Gear then it will automatic connect.
-
+##
 1. ติดตั้งตัวแอพพลิเคชัน Blind-Wrist ลงในมือถือระบบปฏิบัติแอนดรอยด์ของคุณ
 2. เปิดแอพพลิเคชัน
 3. เปิดตัวอุปกรณ์ Blind-Gear ขึ้นมา จากนั้นระบบจะเชื่อมต่อให้คุณโดยอัตโนมัติ
