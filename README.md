@@ -12,10 +12,13 @@ In Thailand, 10.2% were visually impaired disable of the 800,000 people (2016). 
 .Blind gear.<br>
 
 ## Installation :books:
-1.  Install  Blind Wrist application on your andriod phone.
+1.  Install  Blind-Wrist application on your andriod phone.
 2. Run application.
-3.  Turn On Blind gear then it will automatic connect.
+3.  Turn On Blind-Gear then it will automatic connect.
 
+1. ติดตั้งตัวแอพพลิเคชัน Blind-Wrist ลงในมือถือระบบปฏิบัติแอนดรอยด์ของคุณ
+2. เปิดแอพพลิเคชัน
+3. เปิดตัวอุปกรณ์ Blind-Gear ขึ้นมา จากนั้นระบบจะเชื่อมต่อให้คุณโดยอัตโนมัติ
 ##  Used :floppy_disk:
 This gear help blind people can use echolocation easier you just use your hand to point in anywhere then it will be generate 3D Sound
 it have different volume and can tell you how far of object. Next's 3d Map generate function you can save object range into your GPS location. Emergency assistance is available by pressing the Emergency button to have the device ring for help.The device can send the latest GPS coordinates before disconnection. And automatically record.
