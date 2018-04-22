@@ -7,29 +7,18 @@ In Thailand, 10.2% were visually impaired disable of the 800,000 people (2016). 
 ในประเทศไทย 10.2% มีผู้พิการทางสายตาปิด 800,000 คน (สถิติในปี 2016-2017) และคาดว่าจะเพิ่มขึ้นในปีหน้า ดังนั้นเราจึงได้พัฒนา "Blinded-Wrist" (ไบล์ดเด็ด-วฺริส์ท) เพื่อให้คนพิการสามารถค้นหาระยะทางรอบตัวได้เพียงแค่ใช้หู. แล้วมันคืออะไรกันละ? มันจะทวัดระยะห่างและส่งสัญญาณให้เกิดเสียง ตามข้อมูลที่วัดระยะทางตามแอมพลิจูด และเซ็นเซอร์เสียงนั้นได้กลายเป็นเรื่องง่ายและคนที่มีความบกพร่องทางสายตาและคนตาบอด ตามการเติบโตของเทคโนโลยีที่ทำให้การวัดระยะทางแบบเก่าที่เกิดปัญหาบ่อยโดยใช้ไม้เคาะนั้นเป็นเรื่องที่ยากไปเลย และนั่นคือเหตุผลว่าทำไมเราถึงพัฒนาสิ่งนี้ขึ้นมา
 
 ## Equipment and Devices :computer:
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
+.Android phone.
+.Blind gear.
 
 ## Installation :books:
-1.  Install  [Arduino](https://www.arduino.cc/en/Main/Software)
-2.  Install  [Arduino ESP8266 core](https://github.com/esp8266/Arduino#installing-with-boards-manager)
-3.  Download  [FirebaseArduino library](https://github.com/googlesamples/firebase-arduino/archive/master.zip)
-4. Download [something]("")
-5. Unzip  to Arduino libaries
-6.  Start Arduino
+1.  Install  Blind Wrist application on your andriod phone.
+2. Run application.
+3.  Turn On Blind gear then it will automatic connect.
 
 
 ##  Used
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
+This gear help blind people can use echolocation easier you just use your hand to point in anywhere then it will be generate 3d sound
+they have different volume and can tell you how far of object.Next is 3d map generate function you can save object range into your gps location.
 
 
 ## Author
