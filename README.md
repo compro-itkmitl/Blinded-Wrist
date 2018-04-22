@@ -16,7 +16,6 @@ In Thailand, 10.2% were visually impaired disable of the 800,000 people (2016). 
 2. Run application.
 3.  Turn On Blind gear then it will automatic connect.
 
-<br>
 ##  Used :floppy_disk:
 This gear help blind people can use echolocation easier you just use your hand to point in anywhere then it will be generate 3D Sound
 it have different volume and can tell you how far of object. Next's 3d Map generate function you can save object range into your GPS location. Emergency assistance is available by pressing the Emergency button to have the device ring for help.The device can send the latest GPS coordinates before disconnection. And automatically record.
