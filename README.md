@@ -16,12 +16,15 @@ In Thailand, 10.2% were visually impaired disable of the 800,000 people (2016). 
 3.  Turn On Blind gear then it will automatic connect.
 
 
-##  Used
-This gear help blind people can use echolocation easier you just use your hand to point in anywhere then it will be generate 3d sound
-they have different volume and can tell you how far of object.Next is 3d map generate function you can save object range into your gps location.
+##  Used :floppy_disk:
+This gear help blind people can use echolocation easier you just use your hand to point in anywhere then it will be generate 3D Sound
+it have different volume and can tell you how far of object. Next's 3d Map generate function you can save object range into your GPS location. Emergency assistance is available by pressing the Emergency button to have the device ring for help.The device can send the latest GPS coordinates before disconnection. And automatically record.
 
 
-## Author
+อุปกรณ์นี้ช่วยให้คนตาบอดสามารถใช้ echolocation(การวัดระยะทางผ่านการใช้เสียงสะท้อน) ได้ง่ายขึ้นเพียงแค่ใช้มือของคุณชี้ไปยังจุดใดก็ได้แล้วจะสร้าง 3D sound
+มีการแบ่งช่วงความดังเสียงที่แตกต่างกันและสามารถบอกคุณได้ว่าไกลจากวัตถุเท่าไร. ต่อไปคือ 3D Map สร้างฟังก์ชันที่คุณสามารถบันทึกช่วงวัตถุลงในตำแหน่ง GPS ของคุณได้.มีระบบขอความช่วยเหลือฉุกเฉิน โดยการกดปุ่ม Emergency เพื่อให้ตัวอุปกรณ์ส่งเสียงขอความช่วยเหลือ. ตัวอุปกรณ์นั้นสามารถส่งข้อมูลพิกัด GPS ล่าสุดก่อนขาดการเชื่อมต่อ และบันทึกข้อมูลได้แบบอัตโนมัติ.
+
+## Author :black_nib:
 |<a href="https://www.facebook.com/Hnunkungs"><img src="https://scontent.fbkk1-1.fna.fbcdn.net/v/t1.0-9/21231649_1401222876663807_4916051055713184915_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=93d193b540fca3b7bde0e653b92025b6&oe=5B6642D8" width="150px"></a>  |<a href="https://www.facebook.com/shiroi.youkai"><img src="https://scontent.fbkk1-3.fna.fbcdn.net/v/t31.0-8/16722685_1255703587857826_3736045301934198990_o.jpg?_nc_cat=0&oh=fd767662b9c942e88680f484db4119f1&oe=5B565177"  height="150"></a>  |<a href="https://www.facebook.com/botgapp"><img src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-9/26730776_1640973582616182_1747020199734670074_n.jpg?_nc_fx=fbkk1-3&_nc_cat=0&oh=4baf73275c6ae29e3674ce71c2a2b6d7&oe=5B5F3B98" width="150px"></a>|
 |:-:|:-:|:-:|
 |[@hnunkung](https://github.com/hnunkung)|[@Warabai](https://github.com/60070086)|[@gapsurat](https://github.com/gapsurat)|
