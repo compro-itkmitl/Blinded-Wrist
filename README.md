@@ -36,7 +36,7 @@ it have different volume and can tell you how far of object. Next's 3d Map gener
 
 
 # Assistant Teacher
-|ผศ. ดร. กิติ์สุชาติ พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
+|ผศ. ดร. ปานวิทย์ ธุวะนุติ|ผศ. ดร. กิติ์สุชาติ พสุภา|
 |:-:|:-:|
 |![](http://www.it.kmitl.ac.th/system/files/personnel_pics/100510_Panwit.png?1274681450)|![](http://www.it.kmitl.ac.th/system/files/personnel_pics/002.jpg?1316661597)|
 
